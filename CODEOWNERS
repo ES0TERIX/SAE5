@@ -1,0 +1,5 @@
+# Lines starting with '#' are comments.
+# Each line specifies a file or directory and the owners (GitHub usernames or team names).
+
+# For example, the following line designates the user 'username' as the code owner for the 'src' directory:
+/src/ ES0TERIX
