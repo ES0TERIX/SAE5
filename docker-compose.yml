@@ -14,6 +14,7 @@ services:
             MYSQL_PASSWORD: test
         volumes:
             - ./mysql-test:/var/lib/mysql
+
     phpmyadmin:
         image: phpmyadmin/phpmyadmin
         ports:
