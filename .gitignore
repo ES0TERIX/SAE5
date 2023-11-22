@@ -17,5 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/mysql-test
-!/mysql-test/.gitkeep
